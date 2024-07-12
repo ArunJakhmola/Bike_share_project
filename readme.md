@@ -1,5 +1,6 @@
 # Toman Bike Share Project
 
+![Toman Bike Share Project](https://github.com/ArunJakhmola/arunjakhmola.github.io/blob/main/assets/Screenshot%202024-07-12%20134214.png)
 ## Project Overview
 
 The **Toman Bike Share Project** involves the analysis of bike share data for the years 2021 and 2022. This project utilizes SQL for data extraction and transformation, and Power BI for data visualization. The data is stored in three CSV files and is analyzed to gain insights into usage patterns, financial performance, and other key metrics.
